@@ -1,2 +1,3 @@
 # Computer-Programming---BSIT
-for ser lindio
+for output or whatnots
+//this aint real
